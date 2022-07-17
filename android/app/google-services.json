@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753664183108",
+    "project_id": "travel-go-3cd0e",
+    "storage_bucket": "travel-go-3cd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753664183108:android:eb56a2710eff53ca182511",
+        "android_client_info": {
+          "package_name": "com.example.travel_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753664183108-190ugj8hbse97ar3navte61d760mm9gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIE4tIvt46NiP2CCBCGaT2y6qelRPkHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753664183108-190ugj8hbse97ar3navte61d760mm9gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
